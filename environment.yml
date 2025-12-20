@@ -8,6 +8,7 @@ dependencies:
   - pandas=2.2.2
   - matplotlib=3.8.4
   - seaborn=0.13.2
+  # Added scipy for skewness calculation
   - scipy=1.13.1
   - statsmodels=0.14.2
   - scikit-learn=1.4.2
